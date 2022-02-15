@@ -5,7 +5,7 @@
 ```python
 class Antx:
     def __init__(self):
-        self.nickname = 'antx'
+        self.nickname = 'turalalv'
         self.education = 'Master of Science in Electronics and Communication Engineering, GXU'
         self.research = ['Robo-Advisor', 'Blockchain']
         self.skill = ['Python', 'Golang', 'Rust', 'E-Lisp', 'C', 'C++', 'Lua', 'Php', 'Node.js', 'Vue.js']

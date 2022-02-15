@@ -12,7 +12,7 @@ class Antx:
         self.work = 'Cyber Security'
     
     def communication(self):
-        email = 'wkaifeng2007@163.com'
+        email = 'turalaliv@gmail.com'
 ```
 ### Stats
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=antx-code&show_icons=True&theme=cobalt)
@@ -66,7 +66,4 @@ Python           38 mins         ███████████████�
 
 ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)
 
-### Game
 
-![PlayStation 4](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+4&color=003791&logo=PlayStation+4&logoColor=FFFFFF&label=)
-![Steam](https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=)

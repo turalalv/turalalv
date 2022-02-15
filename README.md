@@ -1,4 +1,4 @@
-## Hi there is ✨ antx space ✨ 👋
+## Hi there is ✨ Tural Aliyev ✨ 👋
 
 <img align="right" width="400" src="https://i.imgur.com/ugWb6BU.gif" />
 

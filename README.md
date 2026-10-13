@@ -15,7 +15,7 @@ class Antx:
         email = 'turalaliv@gmail.com'
 ```
 ### Stats
-![GithubStats](https://github-readme-stats.vercel.app/api?&show_icons=True&theme=cobalt)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=turalalv&show_icons=True&theme=cobalt)
 ### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
@@ -25,8 +25,8 @@ Python           38 mins         ███████████████�
 <!--END_SECTION:waka-->
 
 <!--
-![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?&hide=html&layout=compact&theme=radical)
-![SummaryCard](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?&theme=monokai)
+![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=turalalv&hide=html&layout=compact&theme=radical)
+![SummaryCard](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=turalalv&theme=monokai)
 -->
 
 ### Platform
